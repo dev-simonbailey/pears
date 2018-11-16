@@ -2,7 +2,7 @@
     "name": "demontweeks-simon/my-pears-package",
     "description": "All sorts of things about pears",
     "require": {
-        "php": ">=5.3.0",
+        "php": "^5.3.0",
         "demontweeks-simon/pears-stuff": "dev-master"
     }
 }
