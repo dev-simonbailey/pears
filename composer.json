@@ -1,7 +1,4 @@
 {
     "name": "demontweeks-simon/my-pears-package",
-    "description": "All sorts of things about pears",
-    "require": {
-        "parcelpet-simon/pears": "dev-master"
-    }
+    "description": "All sorts of things about pears"
 }
