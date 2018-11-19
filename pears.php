@@ -1,3 +1,3 @@
 <?php
-echo "I love pears (pear dependency)<br />";
+$pears = "I love pears (pear dependency)<br />";
 ?>
