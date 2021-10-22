@@ -1,2 +1,2 @@
 # pears
-Stuff about pears
+Stuff about pears.
